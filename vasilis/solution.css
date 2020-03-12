@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans+Narrow&display=swap');
+
+h1, h2, h3 {
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+ul {
+    font-family: sans-serif; 
+}
+p {
+    font-family: 'PT Sans NarrowC' , sans-serif;
+}
+.code {
+    
+    font-family: 'PT Mono', monospace;
+
+    
+}
