@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Oswald|Roboto&display=swap');
+
+h1, h2, h3, {
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    font-family: 'Oswald', sans-serif;
+}
+
+.code {
+    .font-family: 'Anton', sans-serif;
+}
