@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Titillium+Web:400,400i,700,700i|Ubuntu:400,400i,700,700i&display=swap');
+
+main {
+    font-family: 'Titillium Web', 'Open Sans', sans-serif;
+    .code code {
+        font-family: 'IBM Plex Mono', Courier, monospace;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Ubuntu', 'Open Sans', sans-serif;
+}
+
+.code code{
+    font-family: 'IBM Plex Mono', Courier, monospace;
+}
