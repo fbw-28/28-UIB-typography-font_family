@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Montserrat|Sen&display=swap');
+
+
+h1 {
+    font: oswald;    
+}
+
+h2 {
+    font-family: 'Sen', sans-serif;  
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font: oswald;   
+}
+
+
+.code {
+    font-family: 'Inconsolata', monospace;
+}
