@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Inter|Roboto|Roboto+Mono&display=swap');
+
+h1, h2, h3 {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+main {
+    font-family: 'Inter', 'Hevetica', sans-serif;
+}
+
+code {
+    font-family: 'Roboto Mono', 'Monospace', monospace;
+}
